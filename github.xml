@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="eb4655ae-325a-4148-ba4e-ed00c9f54aa5" name="ystrength">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
